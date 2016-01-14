@@ -6,7 +6,7 @@ require 'wistia/version'
 Gem::Specification.new do |spec|
   spec.name          = "wistia"
   spec.version       = Wistia::VERSION
-  spec.authors       = ["Noah Pryor"]
+  spec.authors       = ["Noah Pryor", "Dustin Eichler", "Jack Phelps", "Sid Yadav", "Mike Poage"]
   spec.email         = ["dev@teachable.com"]
 
   spec.summary       = %q{Wistia API wrapper}
